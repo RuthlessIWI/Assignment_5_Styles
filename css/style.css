@@ -10,10 +10,124 @@
     
  body {
     background-color: darkblue;
+    
 }  
-P {
+p {
+    
     color: white;
+    display: grid;    
+    border: 1px solid black;
+    height: 100px;    
+    padding: 20px;   
+    color: white;
+    box-shadow: -5px 5px 5px black;
+    width: 750px;   
+    
 } 
+#sidebar {
+    
+    display: grid;   
+    padding: 20px;   
+    width: 100px;
+}
+
+nav{
+    display: grid;
+    grid-template-columns: auto auto;    
+}
+
+p1 {
+    
+    color: white;
+    display: grid;    
+    border: 1px solid black;
+    height: 150px;    
+    padding: 20px;   
+    color: white;
+    box-shadow: -5px 5px 5px black;
+    width: 750px; 
+}
+
+p2 {
+    
+    color: white;
+    display: grid;    
+    border: 1px solid black;
+    height: 150px;    
+    padding: 20px;   
+    color: white;
+    box-shadow: -5px 5px 5px black;
+    width: 750px; 
+}
+
+p3 {
+
+    color: white;
+    display: grid;    
+    border: 1px solid black;
+    height: 150px;    
+    padding: 20px;   
+    color: white;
+    box-shadow: -5px 5px 5px black;
+    width: 750px; 
+}
+
+p4{
+    color: white;
+    display: grid;    
+    border: 1px solid black;
+    height: 100px;    
+    padding: 20px;   
+    color: white;
+    box-shadow: -5px 5px 5px black;
+    width: 750px; 
+}
+
+p5{
+    color: white;
+    display: grid;    
+    border: 1px solid black;
+    height: 100px;    
+    padding: 20px;   
+    color: white;
+    box-shadow: -5px 5px 5px black;
+    width: 750px; 
+}
+
+p6{
+    color: white;
+    display: grid;    
+    border: 1px solid black;
+    height: 140px;    
+    padding: 20px;   
+    color: white;
+    box-shadow: -5px 5px 5px black;
+    width: 750px; 
+}
+
+p7{
+    color: white;
+    display: grid;    
+    border: 1px solid black;
+    height: 210px;    
+    padding: 20px;   
+    color: white;
+    box-shadow: -5px 5px 5px black;
+    width: 750px; 
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
